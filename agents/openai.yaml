@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Idea Validator"
+  short_description: "Design minimum decisive tests for research ideas"
+  default_prompt: "Use $research-idea-validator to reduce this research idea to its decisive zero-to-one test, gather only the evidence needed, and produce a go, revise, or stop decision."
